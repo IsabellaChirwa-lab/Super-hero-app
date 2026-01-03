@@ -2,7 +2,7 @@
 
 Overview
 
-The FNB Superhero App** is a beginner-level web application created as part of the FNB App Academy  
+The FNB Superhero App is a beginner-level web application created as part of the FNB App Academy  
 This project focuses on building a static user interface while learning how to structure and style a web application using core web technologies.
 
 It represents one of my early projects and highlights my growth in front-end development fundamentals.
